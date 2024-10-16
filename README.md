@@ -6,6 +6,10 @@ To use this template, fork this repository on GitHub to get started.
 
 Parallax One Pager is based on the [Bootstrap](http://getbootstrap.com/) framework.
 
+
+
+
+
 License
 =======
 

@@ -86,45 +86,14 @@
 #slide3 div:first-child {
     /* Location of the image */
 
-    background-image: url('../img/template.png');
-
-    /* this is for the gif file */
-    background-size: cover;
-    position: relative;
-    /* To position the gif inside the div */
+    background-image: url('../img/Projects.png');
 }
 
-/* this is for the gif file */
-.top-left-vid {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 300px;
-    /* Adjust size as needed */
-    height: auto;
-    /* Maintain aspect ratio */
-    z-index: 2;
-    /* Ensure the gif is above the background */
-}
-
-/* this is for the gif file */
-
-.top-middle-vid {
-    position: absolute;
-    top: 300px;
-    left: 70px;
-    width: 150px;
-    /* Adjust size as needed */
-    height: auto;
-    /* Maintain aspect ratio */
-    z-index: 2;
-    /* Ensure the gif is above the background */
-}
 
 #slide4 div:first-child {
     /* Location of the image */
 
-    background-image: url('../img/slide4.jpg');
+    background-image: url('../img/Software.png');
 }
 
 #slide5 div:first-child {
