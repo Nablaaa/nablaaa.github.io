@@ -123,6 +123,12 @@
 #slide6 div:first-child {
     /* Location of the image */
 
+    background-image: url('../img/Education_Home_Projects.png');
+}
+
+#slide7 div:first-child {
+    /* Location of the image */
+
     background-image: url('../img/Recognitions.png');
 }
 
