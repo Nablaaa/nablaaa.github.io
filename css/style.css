@@ -13,14 +13,32 @@
 }
 
 #intro_header {
-    font-size: 8em;
+    font-size: 2em;
     background-color: rgba(0, 0, 0, 0.62);
 
+    padding: 0.1em 1em 0.1em 1em;
     color: white;
 }
 
 #intro_desc {
     font-size: 4em;
+    background-color: rgb(0, 0, 0);
+    padding: 0.1em 1em 0.1em 1em;
+    color: white;
+}
+
+
+#intro_desc_status {
+    font-size: 2em;
+    background-color: rgb(0, 0, 0, 0.62);
+    padding: 0.2em 2em 0.2em 1.8em;
+    color: white;
+}
+
+
+
+#hire_me {
+    font-size: 2em;
     background-color: rgb(0, 0, 0);
     padding: 0.1em 1em 0.1em 1em;
     color: white;
